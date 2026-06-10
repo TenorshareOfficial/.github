@@ -20,6 +20,7 @@ work:
 - A device trapped in Recovery Mode that won't exit
 - iOS update or restore that won't finish
 - Entering or exiting Recovery Mode in one click
+- Upgrade or downgrade iOS
 
 It walks you through detection and the repair steps without manually handling
 advanced restore commands.
